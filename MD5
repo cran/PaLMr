@@ -1,0 +1,15 @@
+ca3be11c68ac0f791fab25f4fbd5667e *DESCRIPTION
+27abd124ddfa20b27fefe5ffb4c97f12 *NAMESPACE
+dedf89b8c78133c44595f5f8d06c8e4c *R/PaLMr_utils.R
+552ef7f3acb43e6f62e0cad38423535b *R/explainCodePALM.R
+02d219a2cdddb253ce23f84cd2a08ccc *R/fixGrammarPALM.R
+10c1a64db6aa642d3199e72a742d9027 *R/getReferencePALM.R
+ba068d7ff2447473ee47c6186e560f71 *R/getTextPALM.R
+b085a538ec46f80623788f9e69045802 *R/optimizeCodePALM.R
+9bcbfd4257f62b308dd5721ac3cf5c81 *R/setupPALM.R
+400f7784d2d272c61d21c1e2306bc83b *man/explainCodePALM.Rd
+4f5a540a4eab54aa023691b8e03fe8c0 *man/fixGrammarPALM.Rd
+bdd2984b62cd75bb216eb47d17c078c2 *man/getReferencePALM.Rd
+ecf94fc35a28137b833a9d706dbb0648 *man/getTextPALM.Rd
+6ce8a45eae4599f1351d963b2f1acd19 *man/optimizeCodePALM.Rd
+91b5ae0b997a3face2a97e94b8190800 *man/setupPALM.Rd
